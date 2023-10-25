@@ -10,7 +10,7 @@
 
 - [Tutorial Active Directory Home Lab](https://www.youtube.com/)
 
-<h2>Certifications</h2>
+<h2>📜 Certifications</h2>
 - CompTIA A+
 
 <h2> 🤳 Connect with me:</h2>
