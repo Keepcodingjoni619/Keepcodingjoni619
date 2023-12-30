@@ -4,6 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/keepcodingjoni619)
 - [Hello World!](https://github.com/keepcodingjoni619/)
+- [osTicket Sytem Virtual Machine Creation](https://github.com/keepcodingjoni619)
 
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -12,6 +13,7 @@
 
 <h2>📜 Certifications</h2>
 - CompTIA A+
+- Security+
 
 <h2> 🤳 Connect with me:</h2>
 
