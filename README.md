@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/keepcodingjoni619)
 - [Hello World!](https://github.com/keepcodingjoni619/)
-- [osTicket Sytem Virtual Machine Creation](https://github.com/keepcodingjoni619)
+- [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)
 
 
 <h2>📺 Popular YouTube Videos</h2>
