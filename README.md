@@ -1,10 +1,12 @@
 <h1>Hi, I'm Johnnie! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Help Desk Support/IT Support Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/keepcodingjoni619)
 - [Hello World!](https://github.com/keepcodingjoni619/)
 - [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
 <h2>📺 Popular YouTube Videos</h2>
