@@ -5,6 +5,9 @@
 - [Active Directory Home Lab](https://github.com/keepcodingjoni619)
 - [Hello World!](https://github.com/keepcodingjoni619/)
 - [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)
+- [VPN_Connection]
+- [DNS]
+- [Network_file_shares_and_Connection]
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
