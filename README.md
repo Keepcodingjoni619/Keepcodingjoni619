@@ -19,6 +19,11 @@
 - <b>CompTIA A+</b>
 - <b>Security+</b>
 
+<h2>Education</h2>
+- National University Bachelors in Cybersecurity Focus in Network Defense 2025
+- Associates in Occupational Studies
+- Nucamp Coding Bootcamp Web Development Fundamentals
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Keepcodingjoni619 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
