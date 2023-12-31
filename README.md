@@ -20,8 +20,8 @@
 - <b>Security+</b>
 
 <h2>Education</h2>
-- National University Bachelors in Cybersecurity Focus in Network Defense 2025
-- Associates in Occupational Studies
+- National University Bachelors in Cybersecurity Focus in Network Defense 2025 <br>
+- Associates in Occupational Studies <br>
 - Nucamp Coding Bootcamp Web Development Fundamentals
 
 <h2> 🤳 Connect with me:</h2>
