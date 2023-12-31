@@ -3,7 +3,6 @@
 <h2>👨‍💻 Help Desk Support/ IT Support Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/keepcodingjoni619)
-- [Hello World!](https://github.com/keepcodingjoni619/)
 - [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)
 - [VPN_Connection](https://github.com/Keepcodingjoni619/VPN_Connection)
 - [DNS]
