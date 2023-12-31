@@ -16,7 +16,7 @@
 - [Tutorial Active Directory Home Lab](https://www.youtube.com/)
 
 <h2>📜 Certifications</h2>
-- <b>CompTIA A+</b>
+- <b>CompTIA A+</b> <br>
 - <b>Security+</b>
 
 <h2>Education</h2>
