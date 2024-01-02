@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Help Desk Support/ IT Support Projects:</h2>
   * <b>OsTicket (Help Desk Ticketing System</b>
-      -[osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)
+      -[osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation) <br>
 - [VPN_Connection](https://github.com/Keepcodingjoni619/VPN_Connection)
 - [DNS]
 - [Network_file_shares_and_Connection]
