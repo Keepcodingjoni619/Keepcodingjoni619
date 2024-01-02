@@ -1,12 +1,12 @@
 <h1>Hi, I'm Johnnie! </h1>
 
 <h2>👨‍💻 Help Desk Support/ IT Support Projects:</h2>
-
-- [Active Directory Home Lab](https://github.com/Keepcodingjoni619/Active_Directory)
-- [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)
+  -<b>OsTicket (Help Desk Ticketing System</b>
+    - [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)
 - [VPN_Connection](https://github.com/Keepcodingjoni619/VPN_Connection)
 - [DNS]
 - [Network_file_shares_and_Connection]
+- [Active Directory Home Lab](https://github.com/Keepcodingjoni619/Active_Directory)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
