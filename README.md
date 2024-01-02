@@ -1,7 +1,7 @@
 <h1>Hi, I'm Johnnie! </h1>
 
 <h2>👨‍💻 Help Desk Support/ IT Support Projects:</h2>
-  * <h1>OsTicket (Help Desk Ticketing System</h1>
+  *OsTicket (Help Desk Ticketing System
       -[osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation) <br>
 - [VPN_Connection](https://github.com/Keepcodingjoni619/VPN_Connection)
 - [DNS]
