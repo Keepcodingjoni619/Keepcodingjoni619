@@ -17,7 +17,7 @@
   <ul>
     <li>[Network_file_shares_and_Connection]</li>
   </ul>
-  <h5>Powershell</h5>
+  <h5>Active Directory using Azue/Powershell</h5>
   <ul>
     <li>[Active Directory Home Lab] (https://github.com/Keepcodingjoni619/Active_Directory)</li>
   </ul>
