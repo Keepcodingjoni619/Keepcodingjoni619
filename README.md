@@ -1,8 +1,16 @@
 <h1>Hi, I'm Johnnie! </h1>
 
 <h2>👨‍💻 <ul>Information Technology Projects</ul></h2>
-  <li>OsTicket (Help Desk Ticketing System</li>
-      - [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)
+<h5>OsTicket (Help Desk Ticketing System</h5>
+<ul>
+  <li> [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)</li>
+  <li>SLAs</li>
+  <li>Departments</li>
+  <li>Permissions</li>
+  <li>Users</li>
+</ul>
+  <li></li>
+      -
   * VPN Connection
       - [VPN_Connection](https://github.com/Keepcodingjoni619/VPN_Connection)
 - [DNS]
