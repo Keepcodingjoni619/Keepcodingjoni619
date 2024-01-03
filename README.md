@@ -11,7 +11,7 @@
   </ul>
   <h5>DNS Configuration</h5>
   <ul>
-    <li>[DNS]</li>
+    <li>[DNS] (https://github.com/Keepcodingjoni619/DNS-Configuration)</li>
   </ul>
   <h5>Network File Sharing</h5>
   <ul>
