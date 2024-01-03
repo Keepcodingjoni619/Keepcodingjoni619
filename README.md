@@ -23,7 +23,10 @@
   </ul>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+<h2>HoneyPot_Hosted_In_The_Cloud☁️</h2>
+<ul>
+  <li>(https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud)</li>
+</ul>
 
 <h2>📺 Popular YouTube Videos</h2>
 
