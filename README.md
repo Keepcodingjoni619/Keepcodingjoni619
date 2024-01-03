@@ -3,15 +3,15 @@
 <h2>👨‍💻 <ul>Information Technology Projects</ul></h2>
 <h5>OsTicket (Help Desk Ticketing System</h5>
 <ul>
-  <li> [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)</li>
+  <li> [osTicket Sytem Virtual Machine Creation] (https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)</li>
 </ul>
  <h5>VPN Connection</h5>
   <ul>
-    <li>[VPN_Connection](https://github.com/Keepcodingjoni619/VPN_Connection)</li>
+    <li>[VPN_Connection] (https://github.com/Keepcodingjoni619/VPN_Connection)</li>
   </ul>
-  <h5>DNS</h5>
+  <h5>DNS Configuration</h5>
   <ul>
-    <li></li>
+    <li>[DNS]</li>
   </ul>
   <h5>Network File Sharing</h5>
   <ul>
@@ -19,7 +19,7 @@
   </ul>
   <h5>Powershell</h5>
   <ul>
-    <li>[Active Directory Home Lab](https://github.com/Keepcodingjoni619/Active_Directory)</li>
+    <li>[Active Directory Home Lab] (https://github.com/Keepcodingjoni619/Active_Directory)</li>
   </ul>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
