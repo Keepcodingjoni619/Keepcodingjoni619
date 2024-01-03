@@ -4,19 +4,24 @@
 <h5>OsTicket (Help Desk Ticketing System</h5>
 <ul>
   <li> [osTicket Sytem Virtual Machine Creation](https://github.com/Keepcodingjoni619/osTicket_System_Virtual_Machine_Creation)</li>
-  <li>SLAs</li>
-  <li>Departments</li>
-  <li>Permissions</li>
-  <li>Users</li>
 </ul>
-  <li></li>
-      -
-  * VPN Connection
-      - [VPN_Connection](https://github.com/Keepcodingjoni619/VPN_Connection)
-- [DNS]
-- [Network_file_shares_and_Connection]
-- [Active Directory Home Lab](https://github.com/Keepcodingjoni619/Active_Directory)
-
+ <h5>VPN Connection</h5>
+  <ul>
+    <li>[VPN_Connection](https://github.com/Keepcodingjoni619/VPN_Connection)</li>
+  </ul>
+  <h5>DNS</h5>
+  <ul>
+    <li></li>
+  </ul>
+  <h5>Network File Sharing</h5>
+  <ul>
+    <li>[Network_file_shares_and_Connection]</li>
+  </ul>
+  <h5>Powershell</h5>
+  <ul>
+    <li>[Active Directory Home Lab](https://github.com/Keepcodingjoni619/Active_Directory)</li>
+  </ul>
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
