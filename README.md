@@ -15,7 +15,7 @@
   </ul>
   <h5>Network File Sharing</h5>
   <ul>
-    <li>[Network_file_shares_and_Connection]</li>
+    <li>[Network_file_shares_and_Connection] (https://github.com/Keepcodingjoni619/Network_File_Shares_and_Permission)</li>
   </ul>
   <h5>Active Directory using Azue/Powershell</h5>
   <ul>
