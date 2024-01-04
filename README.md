@@ -25,11 +25,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <h5>HoneyPot_Hosted_In_The_Cloud - Azure☁️</h5>
 <ul>
-  <li>(https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud)</li>
+  <li>[HoneyPot](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud)</li>
 </ul>
 <h5>Vulnerability Scanner</h5>
 <ul>
-  <li>(https://github.com/Keepcodingjoni619/Vulnerability_Scanner)</li>
+  <li>[Vulnerability_Scanner](https://github.com/Keepcodingjoni619/Vulnerability_Scanner)</li>
 </ul>
 
 <h2>📜 Certifications</h2>
