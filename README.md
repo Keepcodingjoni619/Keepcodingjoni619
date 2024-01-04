@@ -23,7 +23,7 @@
   </ul>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-<h5>HoneyPot_Hosted_In_The_Cloud - Azure]☁️</h5>
+<h5>HoneyPot_Hosted_In_The_Cloud - Azure☁️</h5>
 <ul>
   <li>(https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud)</li>
 </ul>
