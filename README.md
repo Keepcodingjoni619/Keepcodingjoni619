@@ -32,10 +32,6 @@
   <li>(https://github.com/Keepcodingjoni619/Vulnerability_Scanner)</li>
 </ul>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/)
-
 <h2>📜 Certifications</h2>
 - <b>CompTIA A+</b> <br>
 - <b>Security+</b>
