@@ -35,7 +35,7 @@
 <h2>📜 Certifications</h2>
 - <b>CompTIA A+</b> <br>
 - <b>Security+</b> <br>
-- <b>Net+ 2024(I'm Working On It)</b>
+- <b>Net+ 2024 (I'm Working On It)</b>
 
 <h2>Education</h2>
 - National University Bachelors in Cybersecurity w/ Focus in Network Defense 2025 <br>
