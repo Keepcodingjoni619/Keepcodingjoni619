@@ -44,6 +44,8 @@
 
 <h2>Resume</h2>
 
+-[Johnnie_Candari_Resume2024.pdf](https://github.com/Keepcodingjoni619/Keepcodingjoni619/files/13826596/Johnnie_Candari_Resume2024.pdf)
+
 
 <h2> 🤳 Connect with me:</h2>
 
