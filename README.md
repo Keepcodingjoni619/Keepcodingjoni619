@@ -34,7 +34,7 @@
 
 <h2>📜 Certifications</h2>
 - <b>CompTIA A+</b> <br>
-- <b>Security+</b>
+- <b>Security+</b> <br>
 - <b>Net+ 2024(I'm Working On It)</b>
 
 <h2>Education</h2>
