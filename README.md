@@ -56,7 +56,8 @@
 
 <h2>Resume</h2>
 
--[Resume](file:///C:/Users/Canda/OneDrive/Desktop/Resumes/JohnnieResumeCybersecurity2024.pdf)
+-[Resume]([JohnnieResumeCybersecurity2024.pdf](https://github.com/Keepcodingjoni619/Keepcodingjoni619/files/13842183/JohnnieResumeCybersecurity2024.pdf)
+
 
 
 <h2> 🤳 Connect with me:</h2>
