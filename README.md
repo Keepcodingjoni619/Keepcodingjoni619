@@ -23,7 +23,7 @@
   </ul>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-<h5>HoneyPot_Hosted_In_The_Cloud - Azure☁️</h5>
+<h5>HoneyPot Hosted In The_Cloud - Azure☁️</h5>
 <ul>
   <li>[HoneyPot](https://github.com/Keepcodingjoni619/HoneyPot_Hosted_In_The_Cloud)</li>
 </ul>
@@ -31,7 +31,7 @@
 <ul>
   <li>[Vulnerability_Scanner](https://github.com/Keepcodingjoni619/Vulnerability_Scanner)</li>
 </ul>
-<h5>Password Manager Hosted In The Cloud</h5>
+<h5>Password Manager Hosted In The Cloud ☁️</h5>
 <ul>
   <li>[Password_Manager_Hosted_In_The_Cloud](https://github.com/Keepcodingjoni619/SIEM_Intergration_With_Artifical_Intelligence_ChatGPT)</li>
 </ul>
