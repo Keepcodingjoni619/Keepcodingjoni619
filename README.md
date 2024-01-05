@@ -58,6 +58,7 @@
 
 -[Resume] 
 
+[JohnnieResumeCybersecurity2024.pdf](https://github.com/Keepcodingjoni619/Keepcodingjoni619/files/13842297/JohnnieResumeCybersecurity2024.pdf)
 
 
 
