@@ -41,7 +41,7 @@
 </ul>
 <h5>SIEM Integration With Artifical Intelligence ChatGPT</h5>
 <ul>
-  <li>[SIEM_Integration_With_Artifical_Intelligence_ChatGPT](https://github.com/Keepcodingjoni619/SIEM_Intergration_With_Artifical_Intelligence_ChatGPT)</li>
+  <li>[SIEM_Integration_With_Artifical_Intelligence_ChatGPT](https://github.com/Keepcodingjoni619/SIEM_Integration_With_Artifical_Intelligence_ChatGPT)</li>
 </ul>
 
 <h2>📜 Certifications</h2>
