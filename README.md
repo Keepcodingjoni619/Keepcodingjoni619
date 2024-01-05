@@ -31,6 +31,18 @@
 <ul>
   <li>[Vulnerability_Scanner](https://github.com/Keepcodingjoni619/Vulnerability_Scanner)</li>
 </ul>
+<h5>Password Manager Hosted In The Cloud</h5>
+<ul>
+  <li>[Password_Manager_Hosted_In_The_Cloud](https://github.com/Keepcodingjoni619/SIEM_Intergration_With_Artifical_Intelligence_ChatGPT)</li>
+</ul>
+<h5>Microsoft Sentinel SIEM</h5>
+<ul>
+  <li>[Microsoft_Sentinel_SIEM](https://github.com/Keepcodingjoni619/Microsoft_Sentinel_SIEM)</li>
+</ul>
+<h5>SIEM Intergration With Artifical Intelligence ChatGPT</h5>
+<ul>
+  <li>[SIEM_Intergration_With_Artifical_Intelligence_ChatGPT](https://github.com/Keepcodingjoni619/SIEM_Intergration_With_Artifical_Intelligence_ChatGPT)</li>
+</ul>
 
 <h2>📜 Certifications</h2>
 - <b>CompTIA A+</b> <br>
