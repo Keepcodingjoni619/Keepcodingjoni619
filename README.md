@@ -31,11 +31,11 @@
 <ul>
   <li>[Vulnerability_Scanner](https://github.com/Keepcodingjoni619/Vulnerability_Scanner)</li>
 </ul>
-<h5>Password Manager Hosted In The Cloud - Azure ☁️</h5>
+<h5>Password Manager Hosted In The Cloud - AWS ☁️</h5>
 <ul>
   <li>[Password_Manager_Hosted_In_The_Cloud](https://github.com/Keepcodingjoni619/Password_Manager_Hosted_In_The_Cloud)</li>
 </ul>
-<h5>Microsoft Sentinel SIEM</h5>
+<h5>Microsoft Sentinel SIEM ☁️</h5>
 <ul>
   <li>[Microsoft_Sentinel_SIEM](https://github.com/Keepcodingjoni619/Microsoft_Sentinel_SIEM)</li>
 </ul>
@@ -45,9 +45,9 @@
 </ul>
 
 <h2>📜 Certifications</h2>
-- <b>CompTIA A+</b> <br>
-- <b>Security+</b> <br>
-- <b>Net+ 2024 (I'm Working On It)</b>
+- <b>CompTIA A+ 🎓</b> <br>
+- <b>Security+🎓 </b> <br>
+- <b>Net+ 2024 (I'm Working On It)📚 </b>
 
 <h2>Education</h2>
 - National University Bachelors in Cybersecurity w/ Focus in Network Defense 2025 <br>
