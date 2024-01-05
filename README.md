@@ -57,7 +57,7 @@
 <h2>Resume</h2>
 
 -[Resume] 
-[JohnnieResumeCybersecurity2024.pdf](file:///C:/Users/Canda/OneDrive/Desktop/Resumes/JohnnieResumeCybersecurity2024.pdf)
+
 
 
 
