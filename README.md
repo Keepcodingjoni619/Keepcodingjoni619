@@ -56,7 +56,7 @@
 
 <h2>Resume</h2>
 
--[Resume]([JohnnieResumeCybersecurity2024.pdf](https://github.com/Keepcodingjoni619/Keepcodingjoni619/files/13842183/JohnnieResumeCybersecurity2024.pdf))
+-[Resume]([JohnnieResumeCybersecurity2024.pdf] (https://github.com/Keepcodingjoni619/Keepcodingjoni619/files/13842183/JohnnieResumeCybersecurity2024.pdf)
 
 
 
