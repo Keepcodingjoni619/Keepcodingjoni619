@@ -57,9 +57,6 @@
 <h2>Resume</h2>
 
 -[Resume] 
-![Screenshot 2024-01-05 045036](https://github.com/Keepcodingjoni619/Keepcodingjoni619/assets/82996237/2f45c9f7-d517-4679-b2fe-9f772f057f29)
-
-![Screenshot 2024-01-05 045105](https://github.com/Keepcodingjoni619/Keepcodingjoni619/assets/82996237/5a0a4f8d-460a-4530-995d-186fd8acd3c5)
 
 
 
