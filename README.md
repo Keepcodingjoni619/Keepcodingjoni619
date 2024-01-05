@@ -39,9 +39,9 @@
 <ul>
   <li>[Microsoft_Sentinel_SIEM](https://github.com/Keepcodingjoni619/Microsoft_Sentinel_SIEM)</li>
 </ul>
-<h5>SIEM Intergration With Artifical Intelligence ChatGPT</h5>
+<h5>SIEM Integration With Artifical Intelligence ChatGPT</h5>
 <ul>
-  <li>[SIEM_Intergration_With_Artifical_Intelligence_ChatGPT](https://github.com/Keepcodingjoni619/SIEM_Intergration_With_Artifical_Intelligence_ChatGPT)</li>
+  <li>[SIEM_Integration_With_Artifical_Intelligence_ChatGPT](https://github.com/Keepcodingjoni619/SIEM_Intergration_With_Artifical_Intelligence_ChatGPT)</li>
 </ul>
 
 <h2>📜 Certifications</h2>
